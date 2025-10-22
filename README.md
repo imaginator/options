@@ -1,3 +1,5 @@
+**Update:** this options congtract has been implmented in Simplicity and is being maintained as part of the [Simplicity-Contracts repo](https://github.com/BlockstreamResearch/simplicity-contracts/)
+
 # Options
 
 Options are financial derivatives that give
